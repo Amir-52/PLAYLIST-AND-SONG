@@ -1,7 +1,7 @@
 [
    {
       "id": 1,
-      "name": "Favorite Music",
+      "name": "Favourite Music",
       "songs": [
          {
             "id": 1,
@@ -14,11 +14,29 @@
             "name": "Sweet Child O' Mine",
             "duration": 356,
             "genre": "Rock"
-         },
+         }
+      ]
+   },
+   {
+      "id": 2,
+      "name": "Rock Collection",
+      "songs": [
          {
-            "id": 3,
-            "name": "Pop songs",
-            "duration": 100,
+            "id": 1,
+            "name": "Rock Songs",
+            "duration": 135,
+            "genre": "Rock"
+         }
+      ]
+   },
+   {
+      "id": 3,
+      "name": "Pop Collection",
+      "songs": [
+         {
+            "id": 1,
+            "name": "Pop Songs",
+            "duration": 140,
             "genre": "Pop"
          }
       ]
